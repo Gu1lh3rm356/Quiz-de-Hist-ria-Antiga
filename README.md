@@ -1,2 +1,2 @@
-# Quiz-de-Hist-ria-Antiga
+# Questionário Histórico
 Tente acertar todas as questões. Se acertar todas,vc é legáu
